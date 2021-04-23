@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: VIJENDRA JOSHI
+Build-Jdk: 11.0.8
+Implementation-Title: onlywebservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: nearlast
+Implementation-URL: https://spring.io/projects/spring-boot/onlywebservic
+ e
+Created-By: Maven Integration for Eclipse
+
